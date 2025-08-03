@@ -5,8 +5,8 @@ export default function Home() {
     <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <div className="text-center w-full">
-          <h1 className="text-4xl font-bold mb-4">Next.jsです × Vercel 練習プロジェクト</h1>
-          <p className="text-lg text-gray-600 dark:text-gray-400">開発環境 (develop branch)</p>
+          <h1 className="text-4xl font-bold mb-4">Next.js × Vercel 練習プロジェクト</h1>
+          <p className="text-lg text-gray-600 dark:text-gray-400">本番環境 (main branch)</p>
         </div>
         <Image
           className="dark:invert"
